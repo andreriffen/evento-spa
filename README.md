@@ -1,5 +1,5 @@
 # Landing Page SPA 🚀
-
+![Preview do Projeto](https://github.com/andreriffen/evento-spa/blob/9795f7f935531be4ea669d98ea4d7e3ca5b2ab0f/preview.jpg)
     📅 Página Web para um evento 📆
 
 ## ℹ️ Descrição
