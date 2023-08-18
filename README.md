@@ -22,6 +22,10 @@ O objetivo principal deste projeto era praticar a criação de um site responsiv
 
 - Também usei o *Abode Illustrator* para diminuir o tamanho das imagens compactando. Assim reduzindo o tempo de carregamento da página, ou até mesmo o download da pasta inteira.
 
+## 🕹️ Demonstração (GitHub Pages)
+
+Você pode ver a página "Hora do Dia" em ação [clicando aqui](https://andreriffen.github.io/evento-spa/).
+
 ## 👨‍💻 Tecnologias Utilizadas
 
 Durante o desenvolvimento deste projeto, pratiquei as seguintes tecnologias:
