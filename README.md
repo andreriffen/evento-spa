@@ -41,3 +41,9 @@ Sinta-se à vontade para explorar o código fonte e entender como diferentes ele
 Se você é um aspirante a desenvolvedor web, espero que este protótipo possa servir como inspiração e motivação para você explorar mais o mundo do desenvolvimento web!
 
 Divirta-se explorando o código e experimentando diferentes técnicas de design. Se tiver alguma dúvida ou quiser discutir algo relacionado ao projeto, fique à vontade para entrar em contato.
+
+### ☕ Autor
+
+- 2021 | 2023 ©️ **Andre Riffen** - [Perfil GitHub](https://github.com/andreriffen)
+
+Não se preocupe quanto a licença, este projeto é só um exercício pequeno de quando eu estava no início do meu curso de desenvolvimento de sistemas em 2021. Pode copiar, modificar, remixar à vontade!
