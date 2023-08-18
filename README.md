@@ -36,7 +36,7 @@ Gostaria de ressaltar novamente que este projeto não representa um site real e 
 
 Sinta-se à vontade para explorar o código fonte e entender como diferentes elementos foram implementados. Lembre-se de que o código pode não seguir as melhores práticas atuais, pois se trata de um projeto de prática anterior.
 
-    🙋‍♂️ Se você é um recrutador e está analisando, quero que note o meu cuidado ao escrever este documento! Veja as diferentes técnicas de desenvolvimento, diagramação e revisão.
+- 🙋‍♂️ Se você é um recrutador e está analisando, quero que note o meu cuidado ao escrever este documento! Veja as diferentes técnicas de desenvolvimento, diagramação e revisão.
 
 Se você é um aspirante a desenvolvedor web, espero que este protótipo possa servir como inspiração e motivação para você explorar mais o mundo do desenvolvimento web!
 
